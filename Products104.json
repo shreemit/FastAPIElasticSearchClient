@@ -1,0 +1,4372 @@
+{
+  "took" : 2,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 56122,
+    "max_score" : 1.0,
+    "hits" : [
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201c03c14cf07b90f9b7718",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 875,
+                    "basket" : 885,
+                    "regular" : 1250
+                  },
+                  "min_price" : {
+                    "offer" : 875,
+                    "basket" : 885,
+                    "regular" : 1250
+                  },
+                  "avg_price" : {
+                    "offer" : 875,
+                    "basket" : 885,
+                    "regular" : 1250
+                  },
+                  "avg_discount" : 0.3,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037d06110b3f66c0238d5c",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-08T17:30:43.421000",
+                      "description_text" : "Bring a tough-luxe edge to your footwear rotation with these black Fallon knee-high boots from Gianvito Rossi. Made in Italy from smooth calf leather, this slip-on pair is embellished with gold-tone chains and set on chunky rubber soles.",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114_b1.jpg",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114_d1.jpg",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114_d2.jpg",
+                            "order" : 4
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114_d3.jpg",
+                            "order" : 5
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114_d4.jpg",
+                            "order" : 6
+                          }
+                        ]
+                      },
+                      "units" : { },
+                      "classification" : {
+                        "l1" : "shoes",
+                        "l2" : "knee-high",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "url" : "https://www.mytheresa.com/en-gb/gianvito-rossi-fallon-leather-knee-high-boots-1773363.html",
+                      "price_changes" : [ ],
+                      "updated_at" : "2022-05-02T07:59:08.714000Z",
+                      "sizes" : [
+                        "EU 36 / UK 3",
+                        "EU 36.5 / UK 3.5",
+                        "EU 37 / UK 4",
+                        "EU 37.5 / UK 4.5",
+                        "EU 38 / UK 5",
+                        "EU 38.5 / UK 5.5",
+                        "EU 39 / UK 6",
+                        "EU 39.5 / UK 6.5",
+                        "EU 40 / UK 7",
+                        "EU 40.5 / UK 7.5",
+                        "EU 41 / UK 8",
+                        "EU 42 / UK 9"
+                      ],
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 1250
+                        },
+                        "shipping" : 10,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 885
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 875
+                        }
+                      },
+                      "meta" : {
+                        "reference" : "",
+                        "base64_image_url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/15/P00530114.jpg",
+                        "breadcrumbs" : {
+                          "1" : "Previous Seasons",
+                          "2" : "Gianvito Rossi",
+                          "3" : "Shoes",
+                          "4" : "Boots",
+                          "5" : "Fallon leather knee-high boots"
+                        }
+                      },
+                      "name" : "Fallon leather knee-high boots",
+                      "stock" : {
+                        "available" : false
+                      },
+                      "sku" : "P00530114",
+                      "spider" : "mytheresa_gb_pv",
+                      "brand" : {
+                        "name" : "gianvito rossi",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037d06110b3f66c0238d5c"
+                    },
+                    "_id" : "6202f22f7f17a89594be5489",
+                    "_score" : 41.810688
+                  }
+                ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 875,
+                "basket" : 885,
+                "regular" : 1250
+              },
+              "min_price" : {
+                "offer" : 875,
+                "basket" : 885,
+                "regular" : 1250
+              },
+              "avg_price" : {
+                "offer" : 875,
+                "basket" : 885,
+                "regular" : 1250
+              },
+              "avg_discount" : 0.3,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Knee-high boots are always a winner - the vertical line will do wonders both in keeping you warm and giving the illusion of longer legs. Gianvito Rossi's pair is made from smooth black leather and has gold anklets inspired by equestrian hardware. Wear yours with a knitted dress, leggings or tucked-in pants.",
+          "units" : [
+            {
+              "vid" : "23471478576131104_IT35",
+              "size" : "IT35",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT35"
+            },
+            {
+              "vid" : "23471478576131104_IT35.5",
+              "size" : "IT35.5",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT35.5"
+            },
+            {
+              "vid" : "23471478576131104_IT36",
+              "size" : "IT36",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT36"
+            },
+            {
+              "vid" : "23471478576131104_IT36.5",
+              "size" : "IT36.5",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT36.5"
+            },
+            {
+              "vid" : "23471478576131104_IT37",
+              "size" : "IT37",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT37"
+            },
+            {
+              "vid" : "23471478576131104_IT37.5",
+              "size" : "IT37.5",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT37.5"
+            },
+            {
+              "vid" : "23471478576131104_IT38",
+              "size" : "IT38",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT38"
+            },
+            {
+              "vid" : "23471478576131104_IT38.5",
+              "size" : "IT38.5",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT38.5"
+            },
+            {
+              "vid" : "23471478576131104_IT39",
+              "size" : "IT39",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT39"
+            },
+            {
+              "vid" : "23471478576131104_IT39.5",
+              "size" : "IT39.5",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT39.5"
+            },
+            {
+              "vid" : "23471478576131104_IT40",
+              "size" : "IT40",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT40"
+            },
+            {
+              "vid" : "23471478576131104_IT40.5",
+              "size" : "IT40.5",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT40.5"
+            },
+            {
+              "vid" : "23471478576131104_IT41",
+              "size" : "IT41",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT41"
+            },
+            {
+              "vid" : "23471478576131104_IT41.5",
+              "size" : "IT41.5",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT41.5"
+            },
+            {
+              "vid" : "23471478576131104_IT42",
+              "size" : "IT42",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "6201c03c14cf07b90f9b7718_IT42"
+            }
+          ],
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/bk/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/cu/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/fr/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/in/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/bk/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/cu/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/fr/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/23471478576131104/in/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "shoes",
+            "l2" : "knee-high",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/gianvito-rossi/shoes/knee-high/chain-embellished-leather-knee-boots/23471478576131104",
+          "updated_at" : "2022-05-02T12:20:08.414594",
+          "sizes" : [
+            "35",
+            "35.5",
+            "36",
+            "36.5",
+            "37",
+            "37.5",
+            "38",
+            "38.5",
+            "39",
+            "39.5",
+            "40",
+            "40.5",
+            "41",
+            "41.5",
+            "42"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 1250
+            },
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 750
+            },
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 750
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/23471478576131104/bk/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "gianvito-rossi",
+              "2" : "shoes",
+              "3" : "knee-high",
+              "4" : "chain-embellished-leather-knee-boots"
+            }
+          },
+          "name" : "GIANVITO ROSSI Chain-embellished leather knee boots",
+          "stock" : {
+            "available" : false
+          },
+          "sku" : "23471478576131104",
+          "brand" : {
+            "name" : "gianvito rossi",
+            "sub_brand" : ""
+          },
+          "website_id" : "620349f1110b3f66c0238d53",
+          "spider" : "netaporter_gb_pv",
+          "price_positioning_text" : "expensive"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201dd0dd9ff7a61ca7127b4",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 1345,
+                    "basket" : 1345,
+                    "regular" : 1345
+                  },
+                  "min_price" : {
+                    "offer" : 1345,
+                    "basket" : 1345,
+                    "regular" : 1345
+                  },
+                  "avg_price" : {
+                    "offer" : 1345,
+                    "basket" : 1345,
+                    "regular" : 1345
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_6189061cb1438e7d97084227",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-11T18:40:27.297000",
+                      "description_text" : "",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_1_large.jpg",
+                            "order" : 0
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_2_large.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_3_large.jpg",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_4_large.jpg",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_5_large.jpg",
+                            "order" : 4
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_1_small.jpg",
+                            "order" : 0
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_2_small.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_3_small.jpg",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_4_small.jpg",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1386441_5_small.jpg",
+                            "order" : 4
+                          }
+                        ]
+                      },
+                      "units" : [
+                        {
+                          "vid" : "1386441_35 EU/IT",
+                          "size" : "35 EU/IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_35 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_36 EU/IT",
+                          "size" : "36 EU/IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_36 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_37 EU/IT",
+                          "size" : "37 EU/IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_37 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_38 EU/IT",
+                          "size" : "38 EU/IT",
+                          "stock" : {
+                            "available" : false
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_38 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_39 EU/IT",
+                          "size" : "39 EU/IT",
+                          "stock" : {
+                            "available" : false
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_39 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_40 EU/IT",
+                          "size" : "40 EU/IT",
+                          "stock" : {
+                            "available" : false
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_40 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_41 EU/IT",
+                          "size" : "41 EU/IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_41 EU/IT"
+                        },
+                        {
+                          "vid" : "1386441_42 EU/IT",
+                          "size" : "42 EU/IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621b36106e863f8594f228ab_42 EU/IT"
+                        }
+                      ],
+                      "classification" : {
+                        "l1" : "shoes",
+                        "l2" : "knee-high",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.matchesfashion.com/womens/designers/louboutin-christian",
+                      "url" : "https://www.matchesfashion.com/products/Christian-Louboutin-Civiliza-100-wedge-heel-leather-knee-high-boots-1386441",
+                      "price_changes" : [ ],
+                      "updated_at" : "2022-04-28T07:08:24.110000Z",
+                      "sizes" : [
+                        "35 EU/IT",
+                        "36 EU/IT",
+                        "37 EU/IT",
+                        "38 EU/IT",
+                        "39 EU/IT",
+                        "40 EU/IT",
+                        "41 EU/IT",
+                        "42 EU/IT"
+                      ],
+                      "meta" : {
+                        "reference" : "",
+                        "breadcrumbs" : {
+                          "1" : "womens",
+                          "2" : "designers",
+                          "3" : "louboutin-christian"
+                        }
+                      },
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 1345
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 1345
+                        },
+                        "tax_inclusion" : "not included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 1345
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 103,
+                        "page" : 1
+                      },
+                      "name" : "Civiliza 100 wedge-heel leather knee-high boots",
+                      "sku" : "1386441",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "brand" : {
+                        "name" : "christian louboutin",
+                        "sub_brand" : ""
+                      },
+                      "spider" : "matchesfashion_gb_lv",
+                      "website_id" : "6189061cb1438e7d97084227"
+                    },
+                    "_id" : "62064255829bf3e7498a494a",
+                    "_score" : 13.073137
+                  }
+                ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 1345,
+                "basket" : 1345,
+                "regular" : 1345
+              },
+              "min_price" : {
+                "offer" : 1345,
+                "basket" : 1345,
+                "regular" : 1345
+              },
+              "avg_price" : {
+                "offer" : 1345,
+                "basket" : 1345,
+                "regular" : 1345
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Christian Louboutin's 'Civiliza' knee boots will make your legs look endless. Crafted in Italy from black textured-leather, they have almond toes and stacked wedge heels that make them extra comfortable and easy to walk in.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/bk/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/in/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/fr/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/cu/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/bk/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/in/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/fr/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/19971654706669356/cu/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "shoes",
+            "l2" : "knee-high",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/christian-louboutin/shoes/knee-high/civiliza-100-textured-leather-wedge-knee-boots/19971654706669356",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:20:08.129446",
+          "sizes" : [
+            "35",
+            "36",
+            "36.5",
+            "37",
+            "37.5",
+            "38",
+            "38.5",
+            "39",
+            "39.5",
+            "40",
+            "40.5",
+            "41",
+            "42"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 1345
+            },
+            "shipping" : 0,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 1345
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 1345
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/19971654706669356/bk/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "christian-louboutin",
+              "2" : "shoes",
+              "3" : "knee-high",
+              "4" : "civiliza-100-textured-leather-wedge-knee-boots"
+            }
+          },
+          "name" : "CHRISTIAN LOUBOUTIN Civiliza 100 textured-leather wedge knee boots",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "19971654706669356",
+          "spider" : "netaporter_gb_pv",
+          "website_id" : "620349f1110b3f66c0238d53",
+          "brand" : {
+            "sub_brand" : "",
+            "name" : "christian louboutin"
+          },
+          "price_positioning_text" : "equal"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201ee4cee44a00491f44a7d",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 1565,
+                    "basket" : 1565,
+                    "regular" : 1565
+                  },
+                  "min_price" : {
+                    "offer" : 1565,
+                    "basket" : 1565,
+                    "regular" : 1565
+                  },
+                  "avg_price" : {
+                    "offer" : 1565,
+                    "basket" : 1565,
+                    "regular" : 1565
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037a37110b3f66c0238d5a",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-20T18:57:21.883000",
+                      "description_text" : "",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/77/78/90/16777890_37212543_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/77/78/90/16777890_37212544_480.jpg",
+                            "order" : 2
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/77/78/90/16777890_37212543_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/77/78/90/16777890_37212544_480.jpg",
+                            "order" : 2
+                          }
+                        ]
+                      },
+                      "units" : [
+                        {
+                          "vid" : "16777890_One Size",
+                          "size" : "One Size",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "6212501f00f6c482846c4b3b_One Size"
+                        }
+                      ],
+                      "classification" : {
+                        "l1" : "shoes",
+                        "l2" : "loafers",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.farfetch.com/uk/shopping/women/bottega-veneta/items.aspx?page=2",
+                      "url" : "https://www.farfetch.com/uk/shopping/women/bottega-veneta-the-quilt-leather-roller-skates-item-16777890.aspx?storeid=13537",
+                      "updated_at" : "2022-05-01T14:00:47.492000Z",
+                      "sizes" : [
+                        "One Size"
+                      ],
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 1565
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 1565
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 1565
+                        },
+                        "duties" : {
+                          "delivery_duties" : "paid"
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 66,
+                        "page" : 2
+                      },
+                      "meta" : {
+                        "reference" : ""
+                      },
+                      "name" : "The Quilt leather roller skates",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "sku" : "16777890",
+                      "spider" : "farfetch_gb_lv",
+                      "brand" : {
+                        "name" : "bottega veneta",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037a37110b3f66c0238d5a"
+                    },
+                    "_id" : "6212501f00f6c482846c4b3b",
+                    "_score" : 61.395073
+                  }
+                ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 1565,
+                "basket" : 1565,
+                "regular" : 1565
+              },
+              "min_price" : {
+                "offer" : 1565,
+                "basket" : 1565,
+                "regular" : 1565
+              },
+              "avg_price" : {
+                "offer" : 1565,
+                "basket" : 1565,
+                "regular" : 1565
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Whether you're a whizz on eight wheels or simply appreciate the retro influences behind the design, there's much to adore about Bottega Veneta's 'The Quilt' roller skates. This pair has been crafted by hand at the house's atelier from supple leather and takes inspiration from '70s court style sneakers with gum rubber midsoles. They have cushioned collars and sturdy rubber wheels.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/in/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/bk/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/cu/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/fr/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/in/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/bk/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/cu/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/10163292708259142/fr/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "shoes",
+            "l2" : "high-top",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/bottega-veneta/shoes/high-top/the-quilt-lace-up-leather-roller-skates/10163292708259142",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:20:06.585188",
+          "sizes" : [
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 1565
+            },
+            "shipping" : 0,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 1565
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 1565
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/10163292708259142/in/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "bottega-veneta",
+              "2" : "shoes",
+              "3" : "high-top",
+              "4" : "the-quilt-lace-up-leather-roller-skates"
+            }
+          },
+          "name" : "BOTTEGA VENETA The Quilt lace-up leather roller skates",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "10163292708259142",
+          "spider" : "netaporter_gb_pv",
+          "website_id" : "620349f1110b3f66c0238d53",
+          "brand" : {
+            "sub_brand" : "",
+            "name" : "bottega veneta"
+          },
+          "price_positioning_text" : "equal"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201e3d5cf728e600004b7cd",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 290,
+                    "basket" : 305,
+                    "regular" : 290
+                  },
+                  "min_price" : {
+                    "offer" : 290,
+                    "basket" : 305,
+                    "regular" : 290
+                  },
+                  "avg_price" : {
+                    "offer" : 290,
+                    "basket" : 305,
+                    "regular" : 290
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_618a5fcb2324f3ad279b24dc",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-09T18:18:51.450000",
+                      "description_text" : """
+Sleeveless stretch nylon jersey bikini top in yellow. Adjustable self-tie at side.
+
+Stretch nylon jersey bikini bottom in yellow. High-rise.
+
+Supplier color: Butter
+""",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://img.ssensemedia.com/images/221804F105003_1/bondi-born-yellow-rainey-and-poppy-bikini.jpg",
+                            "order" : 1
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://img.ssensemedia.com/images/221804F105003_1/bondi-born-yellow-rainey-and-poppy-bikini.jpg",
+                            "order" : 1
+                          }
+                        ]
+                      },
+                      "units" : { },
+                      "classification" : {
+                        "l1" : "clothing",
+                        "l2" : "bikinis",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "url" : "https://www.ssense.com/en-gb/women/product/bondi-born/yellow-rainey-and-poppy-bikini/8500171",
+                      "price_changes" : [ ],
+                      "updated_at" : "2022-05-02T00:09:27.514000Z",
+                      "sizes" : [
+                        "S = US/UK 32",
+                        "L = US/UK 36",
+                        "M = US/UK 34",
+                        "XS = US/UK 30",
+                        "XL = US/UK 38"
+                      ],
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 290
+                        },
+                        "shipping" : 15,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 305
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 290
+                        }
+                      },
+                      "meta" : {
+                        "reference" : 8500171,
+                        "breadcrumbs" : { }
+                      },
+                      "name" : "Yellow Rainey & Poppy Bikini",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "sku" : "221804F105003",
+                      "spider" : "ssense_gb_pv",
+                      "brand" : {
+                        "name" : "bondi born",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "618a5fcb2324f3ad279b24dc"
+                    },
+                    "_id" : "62046e356a241db2d3ec2b30",
+                    "_score" : 43.80722
+                  }
+                ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 290,
+                "basket" : 305,
+                "regular" : 290
+              },
+              "min_price" : {
+                "offer" : 290,
+                "basket" : 305,
+                "regular" : 290
+              },
+              "avg_price" : {
+                "offer" : 290,
+                "basket" : 305,
+                "regular" : 290
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "BONDI BORN's 'Rainey' bikini is designed in a simple bandeau silhouette with ties at one side that create a ruched effect and adjust the shape. It's made from stretch fabric in a subdued 'Butter' shade that coordinates perfectly with the matching high-rise briefs. This product was Locally Made. Find out more about NET SUSTAIN here.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/cu/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/bk/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/fr/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/in/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/cu/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/bk/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/fr/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113563531/in/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "clothing",
+            "l2" : "bikini-tops",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/bondi-born/clothing/bikini-tops/plus-net-sustain-rainey-bandeau-bikini-top/24772899113563531",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:20:05.948393",
+          "sizes" : [
+            "x small",
+            "small",
+            "medium",
+            "large",
+            "x large",
+            "xx large"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 130
+            },
+            "shipping" : 5,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 135
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 130
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/24772899113563531/cu/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "bondi-born",
+              "2" : "clothing",
+              "3" : "bikini-tops",
+              "4" : "plus-net-sustain-rainey-bandeau-bikini-top"
+            }
+          },
+          "name" : "BONDI BORN + NET SUSTAIN Rainey bandeau bikini top",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "24772899113563531",
+          "spider" : "netaporter_gb_pv",
+          "website_id" : "620349f1110b3f66c0238d53",
+          "brand" : {
+            "sub_brand" : "",
+            "name" : "bondi born"
+          },
+          "price_positioning_text" : "expensive"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201ee4b90355e4d38407c79",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 810,
+                    "basket" : 820,
+                    "regular" : 810
+                  },
+                  "min_price" : {
+                    "offer" : 810,
+                    "basket" : 820,
+                    "regular" : 810
+                  },
+                  "avg_price" : {
+                    "offer" : 810,
+                    "basket" : 820,
+                    "regular" : 810
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037d06110b3f66c0238d5c",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-08T17:30:43.421000",
+                      "description_text" : "With their crystal-embellished slingback straps, the Love Link 105 pumps from Aquazzura are an elegant addition to your festive edit. They're set on 105mm stiletto heels with pointed toes and grosgrain uppers.",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197_b1.jpg",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197_d1.jpg",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197_d2.jpg",
+                            "order" : 4
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197_d3.jpg",
+                            "order" : 5
+                          },
+                          {
+                            "url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197_d4.jpg",
+                            "order" : 6
+                          }
+                        ]
+                      },
+                      "units" : { },
+                      "classification" : {
+                        "l1" : "shoes",
+                        "l2" : "high-heel",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "url" : "https://www.mytheresa.com/en-gb/aquazzura-love-link-105-slingback-pumps-2030391.html",
+                      "price_changes" : [
+                        {
+                          "date" : "2022-02-27T09:20:14.559000",
+                          "previous_offer_price" : 733,
+                          "previous_regular_price" : 733,
+                          "current_regular_price" : 810,
+                          "current_offer_price" : 810
+                        }
+                      ],
+                      "updated_at" : "2022-05-02T07:57:55.709000Z",
+                      "sizes" : [
+                        "Fits slightly large to size - we recommend trying a half size smaller",
+                        "EU 35 / UK 2",
+                        "EU 35.5 / UK 2.5",
+                        "EU 36 / UK 3",
+                        "EU 36.5 / UK 3.5",
+                        "EU 37 / UK 4",
+                        "EU 37.5 / UK 4.5",
+                        "EU 38 / UK 5",
+                        "EU 38.5 / UK 5.5",
+                        "EU 39 / UK 6",
+                        "EU 39.5 / UK 6.5",
+                        "EU 40 / UK 7",
+                        "EU 40.5 / UK 7.5",
+                        "EU 41 / UK 8",
+                        "EU 42 / UK 9"
+                      ],
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 810
+                        },
+                        "shipping" : 10,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 820
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 810
+                        }
+                      },
+                      "meta" : {
+                        "reference" : "",
+                        "base64_image_url" : "http://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/02/P00621197.jpg",
+                        "breadcrumbs" : {
+                          "1" : "Women",
+                          "2" : "Aquazzura",
+                          "3" : "Shoes",
+                          "4" : "Pumps",
+                          "5" : "High-heel pumps",
+                          "6" : "Love Link 105 slingback pumps"
+                        }
+                      },
+                      "name" : "Love Link 105 slingback pumps",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "sku" : "P00621197",
+                      "spider" : "mytheresa_gb_pv",
+                      "brand" : {
+                        "name" : "aquazzura",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037d06110b3f66c0238d5c"
+                    },
+                    "_id" : "6202516cbb024dadc9fe20da",
+                    "_score" : 46.424202
+                  }
+                ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 810,
+                "basket" : 820,
+                "regular" : 810
+              },
+              "min_price" : {
+                "offer" : 810,
+                "basket" : 820,
+                "regular" : 810
+              },
+              "avg_price" : {
+                "offer" : 810,
+                "basket" : 820,
+                "regular" : 810
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Aquazzura's 'Love Link' pumps take their name from themes of sensuality and seduction. Made from white grosgrain, they have 105mm stiletto heels and crystal-embellished slingback straps. Pair yours with a silk slip dress.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/bk/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/cu/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/in/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/fr/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/bk/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/cu/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/in/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113464747/fr/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "shoes",
+            "l2" : "high-heel",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/aquazzura/shoes/high-heel/love-link-105-crystal-embellished-grosgrain-slingback-pumps/24772899113464747",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:20:05.346381",
+          "sizes" : [
+            "34",
+            "35",
+            "36",
+            "36.5",
+            "37",
+            "37.5",
+            "38",
+            "38.5",
+            "39",
+            "39.5",
+            "40",
+            "40.5",
+            "41",
+            "41.5",
+            "42"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 810
+            },
+            "shipping" : 0,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 810
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 810
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/24772899113464747/bk/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "aquazzura",
+              "2" : "shoes",
+              "3" : "high-heel",
+              "4" : "love-link-105-crystal-embellished-grosgrain-slingback-pumps"
+            }
+          },
+          "name" : "AQUAZZURA Love Link 105 crystal-embellished grosgrain slingback pumps",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "24772899113464747",
+          "spider" : "netaporter_gb_pv",
+          "website_id" : "620349f1110b3f66c0238d53",
+          "brand" : {
+            "sub_brand" : "",
+            "name" : "aquazzura"
+          },
+          "price_positioning_text" : "expensive"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201d1f1cc67f5454c233fe8",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 940,
+                    "basket" : 940,
+                    "regular" : 940
+                  },
+                  "min_price" : {
+                    "offer" : 940,
+                    "basket" : 940,
+                    "regular" : 940
+                  },
+                  "avg_price" : {
+                    "offer" : 940,
+                    "basket" : 940,
+                    "regular" : 940
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037a37110b3f66c0238d5a",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-20T18:57:21.883000",
+                      "description_text" : "",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/17/34/35/38/17343538_36908183_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/17/34/35/38/17343538_36907277_480.jpg",
+                            "order" : 2
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/17/34/35/38/17343538_36908183_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/17/34/35/38/17343538_36907277_480.jpg",
+                            "order" : 2
+                          }
+                        ]
+                      },
+                      "units" : [
+                        {
+                          "vid" : "17343538_One Size",
+                          "size" : "One Size",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621249982cc44807a7a55ea0_One Size"
+                        }
+                      ],
+                      "classification" : {
+                        "l1" : "sport",
+                        "l2" : "ski-suits",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.farfetch.com/uk/shopping/women/designer-cordova/items.aspx?page=1",
+                      "url" : "https://www.farfetch.com/uk/shopping/women/cordova-aio-side-stripe-ski-suit-item-17343538.aspx?storeid=13537",
+                      "sizes" : [
+                        "S"
+                      ],
+                      "updated_at" : "2022-02-20T18:57:21.883000Z",
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 940
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 940
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "duties" : {
+                          "delivery_duties" : "paid"
+                        },
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 940
+                        }
+                      },
+                      "meta" : {
+                        "reference" : ""
+                      },
+                      "positioning" : {
+                        "rank" : 17,
+                        "page" : 1
+                      },
+                      "name" : "Aio side-stripe ski suit",
+                      "sku" : "17343538",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "brand" : {
+                        "name" : "cordova",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037a37110b3f66c0238d5a",
+                      "spider" : "farfetch_gb_lv"
+                    },
+                    "_id" : "621249982cc44807a7a55ea0",
+                    "_score" : 59.280247
+                  }
+                ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 940,
+                "basket" : 940,
+                "regular" : 940
+              },
+              "min_price" : {
+                "offer" : 940,
+                "basket" : 940,
+                "regular" : 940
+              },
+              "avg_price" : {
+                "offer" : 940,
+                "basket" : 940,
+                "regular" : 940
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "This eponymous ski suit is Cordova's signature style, made from weatherproof fabrics that will keep you warm and dry on the slopes. The flared cuffs, side stripes and high neck nod to sporting styles from the '70s resurrected in the coolest way.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/fr/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/bk/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/in/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/cu/w2000_q60.jpg",
+                "order" : 4
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/ou/w2000_q60.jpg",
+                "order" : 5
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/fr/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/bk/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/in/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/cu/w920_q60.jpg",
+                "order" : 4
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/24772899113543206/ou/w920_q60.jpg",
+                "order" : 5
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "sport",
+            "l2" : "ski-suits",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/cordova/sport/ski-suits/the-cordova-striped-ski-suit/24772899113543206",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:20:04.788077",
+          "sizes" : [
+            "x small",
+            "small",
+            "medium",
+            "large",
+            "x large"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 940
+            },
+            "shipping" : 0,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 940
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 940
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/24772899113543206/fr/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "cordova",
+              "2" : "sport",
+              "3" : "ski-suits",
+              "4" : "the-cordova-striped-ski-suit"
+            }
+          },
+          "name" : "CORDOVA The Cordova striped ski suit",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "24772899113543206",
+          "spider" : "netaporter_gb_pv",
+          "website_id" : "620349f1110b3f66c0238d53",
+          "brand" : {
+            "sub_brand" : "",
+            "name" : "cordova"
+          },
+          "price_positioning_text" : "equal"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "62021fd6d7686a8ced93e79f",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 620,
+                    "basket" : 620,
+                    "regular" : 620
+                  },
+                  "min_price" : {
+                    "offer" : 620,
+                    "basket" : 620,
+                    "regular" : 620
+                  },
+                  "avg_price" : {
+                    "offer" : 620,
+                    "basket" : 620,
+                    "regular" : 620
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037c8c110b3f66c0238d5b",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-09T18:24:17.912000",
+                      "description_text" : "Alongside its usual roster of sharply tailored trousers and blazers and full-skirted dresses, Alexander McQueen slotted a few more low-key pieces into its latest collection for your downtime. Whipped up in snuggly cotton jersey, these jogging bottoms are shaped to a tapered silhouette, so you can still nip to the shops and answer the door in both comfort and style. On the back pocket, you&rsquo;ll spot the finishing touch: a subtly embroidered logo.",
+                      "units" : { },
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_M?$PDP_M_ZOOM$",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT01?$PDP_M_ZOOM$",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT02?$PDP_M_ZOOM$",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT03?$PDP_M_ZOOM$",
+                            "order" : 4
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT04?$PDP_M_ZOOM$",
+                            "order" : 5
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_M?$PDP_TMB$",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT01?$PDP_TMB$",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT02?$PDP_TMB$",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT03?$PDP_TMB$",
+                            "order" : 4
+                          },
+                          {
+                            "url" : "https://images.selfridges.com/is/image/selfridges/R03834854_ROSEGOLD_ALT04?$PDP_TMB$",
+                            "order" : 5
+                          }
+                        ]
+                      },
+                      "classification" : {
+                        "l1" : "clothing",
+                        "l2" : "flared",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "",
+                      "url" : "https://www.selfridges.com/GB/en/cat/alexander-mcqueen-tapered-high-rise-cotton-blend-jogging-bottoms_R03834854/",
+                      "price_changes" : [ ],
+                      "product_type" : "",
+                      "sizes" : [
+                        "6",
+                        "8",
+                        "10",
+                        "12"
+                      ],
+                      "updated_at" : "2022-05-01T15:37:05.522000Z",
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 620
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 620
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 620
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 11,
+                        "page" : 8
+                      },
+                      "meta" : {
+                        "reference" : "R03834854",
+                        "breadcrumbs" : {
+                          "1" : "Womens",
+                          "2" : "Trousers",
+                          "3" : "Tapered"
+                        }
+                      },
+                      "promotion_end_date" : "2022-03-12T21:11:46.669775",
+                      "name" : "Tapered high-rise cotton-blend jogging bottoms",
+                      "promotion_start_date" : "2022-03-12T21:11:46.669788",
+                      "stock" : {
+                        "available" : false
+                      },
+                      "event" : {
+                        "original" : """{"_id": "62046c8a3314706598c72660", "index": "products_62037c8c110b3f66c0238d5b", "action": "update", "classification": {"l1": "clothing", "l2": "flared", "l3": "", "l4": ""}}"""
+                      },
+                      "sku" : "9407323",
+                      "spider" : "selfridges_gb_pv",
+                      "brand" : {
+                        "name" : "alexander mcqueen",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037c8c110b3f66c0238d5b"
+                    },
+                    "_id" : "62046c8a3314706598c72660",
+                    "_score" : 2
+                  }
+                ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 416,
+                    "basket" : 416,
+                    "regular" : 416
+                  },
+                  "min_price" : {
+                    "offer" : 416,
+                    "basket" : 416,
+                    "regular" : 416
+                  },
+                  "avg_price" : {
+                    "offer" : 416,
+                    "basket" : 416,
+                    "regular" : 416
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037a37110b3f66c0238d5a",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-20T18:57:21.883000",
+                      "description_text" : "",
+                      "units" : [
+                        {
+                          "vid" : "16574428_One Size",
+                          "size" : "One Size",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "621256ccbb7e5f0c165083b1_One Size"
+                        }
+                      ],
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/57/44/28/16574428_32395428_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/57/44/28/16574428_32395484_480.jpg",
+                            "order" : 2
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/57/44/28/16574428_32395428_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/57/44/28/16574428_32395484_480.jpg",
+                            "order" : 2
+                          }
+                        ]
+                      },
+                      "classification" : {
+                        "l1" : "clothing",
+                        "l2" : "track-pants",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.farfetch.com/uk/shopping/women/clothing-1/items.aspx?page=540",
+                      "url" : "https://www.farfetch.com/uk/shopping/women/alexander-mcqueen-logo-embroidered-track-pants-item-16574428.aspx?storeid=11935",
+                      "price_changes" : [ ],
+                      "product_type" : "",
+                      "sizes" : [
+                        "XS",
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                      ],
+                      "updated_at" : "2022-05-01T14:15:16.344000Z",
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 416
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 416
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 416
+                        },
+                        "duties" : {
+                          "delivery_duties" : "paid"
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 87,
+                        "page" : 540
+                      },
+                      "meta" : {
+                        "reference" : "",
+                        "breadcrumbs" : {
+                          "1" : "women",
+                          "2" : "clothing"
+                        }
+                      },
+                      "promotion_end_date" : "2022-04-11T20:53:12.363596",
+                      "name" : "logo-embroidered track pants",
+                      "promotion_start_date" : "2022-04-11T20:53:12.363604",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "event" : {
+                        "original" : """{"_id": "621256ccbb7e5f0c165083b1", "index": "products_62037a37110b3f66c0238d5a", "action": "update", "meta": {"breadcrumbs": {"1": "women", "2": "clothing"}}}"""
+                      },
+                      "sku" : "16574428",
+                      "spider" : "farfetch_gb_lv",
+                      "brand" : {
+                        "name" : "alexander mcqueen",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037a37110b3f66c0238d5a"
+                    },
+                    "_id" : "621256ccbb7e5f0c165083b1",
+                    "_score" : 2
+                  }
+                ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 620,
+                "basket" : 620,
+                "regular" : 620
+              },
+              "min_price" : {
+                "offer" : 416,
+                "basket" : 416,
+                "regular" : 416
+              },
+              "avg_price" : {
+                "offer" : 518,
+                "basket" : 518,
+                "regular" : 518
+              },
+              "avg_discount" : 0,
+              "total_results" : 2
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Alexander McQueen's track pants are cut from soft cotton-jersey in a pretty blush hue. They have an elasticated, high-rise waistband, cropped cuffs and the label's logo embroidered at the back. Wear yours while lounging around the house or running errands.",
+          "units" : [
+            {
+              "vid" : "2204324140482656_IT36",
+              "size" : "IT36",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT36"
+            },
+            {
+              "vid" : "2204324140482656_IT38",
+              "size" : "IT38",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT38"
+            },
+            {
+              "vid" : "2204324140482656_IT40",
+              "size" : "IT40",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT40"
+            },
+            {
+              "vid" : "2204324140482656_IT42",
+              "size" : "IT42",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT42"
+            },
+            {
+              "vid" : "2204324140482656_IT44",
+              "size" : "IT44",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT44"
+            },
+            {
+              "vid" : "2204324140482656_IT46",
+              "size" : "IT46",
+              "stock" : {
+                "available" : true
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT46"
+            },
+            {
+              "vid" : "2204324140482656_IT48",
+              "size" : "IT48",
+              "stock" : {
+                "available" : false
+              },
+              "unit_id" : "62021fd6d7686a8ced93e79f_IT48"
+            }
+          ],
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/bk/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/in/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/ou/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/cu/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/bk/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/in/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/ou/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/2204324140482656/cu/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "clothing",
+            "l2" : "track-pants",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/alexander-mcqueen/clothing/track-pants/cropped-embroidered-cotton-jersey-track-pants/2204324140482656",
+          "updated_at" : "2022-05-02T12:20:00.758011",
+          "sizes" : [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 640
+            },
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 192
+            },
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 192
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/2204324140482656/bk/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "alexander-mcqueen",
+              "2" : "clothing",
+              "3" : "track-pants",
+              "4" : "cropped-embroidered-cotton-jersey-track-pants"
+            }
+          },
+          "name" : "ALEXANDER MCQUEEN Cropped embroidered cotton-jersey track pants",
+          "stock" : {
+            "available" : false
+          },
+          "sku" : "2204324140482656",
+          "brand" : {
+            "name" : "alexander mcqueen",
+            "sub_brand" : ""
+          },
+          "website_id" : "620349f1110b3f66c0238d53",
+          "spider" : "netaporter_gb_pv",
+          "price_positioning_text" : "expensive"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201d1d7c6d3ccb97e054da3",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 194,
+                    "basket" : 194,
+                    "regular" : 194
+                  },
+                  "min_price" : {
+                    "offer" : 194,
+                    "basket" : 194,
+                    "regular" : 194
+                  },
+                  "avg_price" : {
+                    "offer" : 194,
+                    "basket" : 194,
+                    "regular" : 194
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037a37110b3f66c0238d5a",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-20T18:57:21.883000",
+                      "description_text" : "",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/14/58/71/68/14587168_22484230_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/14/58/71/68/14587168_22484231_480.jpg",
+                            "order" : 2
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/14/58/71/68/14587168_22484230_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/14/58/71/68/14587168_22484231_480.jpg",
+                            "order" : 2
+                          }
+                        ]
+                      },
+                      "units" : [
+                        {
+                          "vid" : "14587168_One Size",
+                          "size" : "One Size",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62124476da1d4c2ed0579a71_One Size"
+                        }
+                      ],
+                      "classification" : {
+                        "l1" : "clothing",
+                        "l2" : "bikini-tops",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.farfetch.com/uk/shopping/women/4167617-designer-eres/items.aspx?page=2",
+                      "url" : "https://www.farfetch.com/uk/shopping/women/eres-halter-bikini-top-item-14587168.aspx?storeid=13368",
+                      "updated_at" : "2022-05-01T14:12:47.696000Z",
+                      "sizes" : [
+                        "S",
+                        "M",
+                        "L",
+                        "XL",
+                        "XXL"
+                      ],
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 194
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 194
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 194
+                        },
+                        "duties" : {
+                          "delivery_duties" : "paid"
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 86,
+                        "page" : 2
+                      },
+                      "meta" : {
+                        "reference" : ""
+                      },
+                      "name" : "halter bikini top",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "sku" : "14587168",
+                      "spider" : "farfetch_gb_lv",
+                      "brand" : {
+                        "name" : "eres",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037a37110b3f66c0238d5a"
+                    },
+                    "_id" : "62124476da1d4c2ed0579a71",
+                    "_score" : 41.00931
+                  }
+                ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 194,
+                "basket" : 194,
+                "regular" : 194
+              },
+              "min_price" : {
+                "offer" : 194,
+                "basket" : 194,
+                "regular" : 194
+              },
+              "avg_price" : {
+                "offer" : 194,
+                "basket" : 194,
+                "regular" : 194
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Eres' bikini top is made from the label's signature peau douce fabric that's equally flattering and comfortable. Part of the 'Les Essentiels' range, it has underwired cups and a flattering halterneck.Wear it with: [Eres Bikini briefs id1224921], [Zimmermann Sunglasses id1176444].",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/in/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/fr/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/cu/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/bk/w2000_q60.jpg",
+                "order" : 4
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/in/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/fr/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/cu/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/16494023981229884/bk/w920_q60.jpg",
+                "order" : 4
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "clothing",
+            "l2" : "bikini-tops",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/eres/clothing/bikini-tops/les-essentiels-bandito-underwired-halterneck-bikini-top/16494023981229884",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:19:58.697150",
+          "sizes" : [
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 165
+            },
+            "shipping" : 5,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 170
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 165
+            },
+            "duties" : {
+              "delivery_duties" : "paid"
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/16494023981229884/in/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "eres",
+              "2" : "clothing",
+              "3" : "bikini-tops",
+              "4" : "les-essentiels-bandito-underwired-halterneck-bikini-top"
+            }
+          },
+          "name" : "ERES Les Essentiels Bandito underwired halterneck bikini top",
+          "stock" : {
+            "available" : false
+          },
+          "sku" : "16494023981229884",
+          "spider" : "netaporter_gb_pv",
+          "website_id" : "620349f1110b3f66c0238d53",
+          "brand" : {
+            "sub_brand" : "",
+            "name" : "eres"
+          },
+          "price_positioning_text" : "expensive"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201b9065f1c71e96ad482db",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 1350,
+                    "basket" : 1350,
+                    "regular" : 1350
+                  },
+                  "min_price" : {
+                    "offer" : 1350,
+                    "basket" : 1350,
+                    "regular" : 1350
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 1350,
+                    "basket" : 1350,
+                    "regular" : 1350
+                  },
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_62037a37110b3f66c0238d5a",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-20T18:57:21.883000",
+                      "description_text" : "",
+                      "units" : [
+                        {
+                          "vid" : "16420013_One Size",
+                          "size" : "One Size",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62123ed79237cc8189a7761d_One Size"
+                        }
+                      ],
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/42/00/13/16420013_31681175_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/42/00/13/16420013_31681176_480.jpg",
+                            "order" : 2
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/42/00/13/16420013_31681175_480.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://cdn-images.farfetch-contents.com/16/42/00/13/16420013_31681176_480.jpg",
+                            "order" : 2
+                          }
+                        ]
+                      },
+                      "classification" : {
+                        "l1" : "clothing",
+                        "l2" : "evening",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.farfetch.com/uk/shopping/women/clothing-1/items.aspx?page=109",
+                      "url" : "https://www.farfetch.com/uk/shopping/women/gucci-gg-supreme-printed-silk-jacket-item-16420013.aspx?storeid=10524",
+                      "price_changes" : [ ],
+                      "product_type" : "",
+                      "sizes" : [
+                        "S",
+                        "M",
+                        "L"
+                      ],
+                      "updated_at" : "2022-05-01T14:27:15.078000Z",
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 1350
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 1350
+                        },
+                        "tax_inclusion" : "included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 1350
+                        },
+                        "duties" : {
+                          "delivery_duties" : "paid"
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 28,
+                        "page" : 109
+                      },
+                      "meta" : {
+                        "reference" : ""
+                      },
+                      "promotion_end_date" : "2022-03-22T22:41:16.192392",
+                      "name" : "GG Supreme printed silk jacket",
+                      "promotion_start_date" : "2022-03-22T22:41:16.192405",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "event" : {
+                        "original" : """{"_id": "62123ed79237cc8189a7761d", "index": "products_62037a37110b3f66c0238d5a", "action": "update", "classification": {"l1": "clothing", "l2": "blazers", "l3": "", "l4": ""}}"""
+                      },
+                      "sku" : "16420013",
+                      "spider" : "farfetch_gb_lv",
+                      "brand" : {
+                        "name" : "gucci",
+                        "sub_brand" : ""
+                      },
+                      "website_id" : "62037a37110b3f66c0238d5a"
+                    },
+                    "_id" : "62123ed79237cc8189a7761d",
+                    "_score" : 2
+                  }
+                ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 1350,
+                "basket" : 1350,
+                "regular" : 1350
+              },
+              "min_price" : {
+                "offer" : 1350,
+                "basket" : 1350,
+                "regular" : 1350
+              },
+              "avg_price" : {
+                "offer" : 1350,
+                "basket" : 1350,
+                "regular" : 1350
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Gucci’s hoodie is made from lightweight silk-twill decorated with the house's 'GG Supreme' print. Inspired by vintage track styles, it's fitted with a drawstring hood and trimmed with metallic webbing along each sleeve.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/in/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/cu/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/ou/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/bk/w2000_q60.jpg",
+                "order" : 4
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/fr/w2000_q60.jpg",
+                "order" : 5
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/in/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/cu/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/ou/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/bk/w920_q60.jpg",
+                "order" : 4
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/29419655932636209/fr/w920_q60.jpg",
+                "order" : 5
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "clothing",
+            "l2" : "sweatshirts",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/gucci/clothing/sweatshirts/metallic-webbing-trimmed-printed-silk-twill-hoodie/29419655932636209",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:19:57.521248",
+          "sizes" : [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 1350
+            },
+            "shipping" : 0,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 1350
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 1350
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/29419655932636209/in/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "gucci",
+              "2" : "clothing",
+              "3" : "sweatshirts",
+              "4" : "metallic-webbing-trimmed-printed-silk-twill-hoodie"
+            }
+          },
+          "name" : "GUCCI Metallic webbing-trimmed printed silk-twill hoodie",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "29419655932636209",
+          "brand" : {
+            "name" : "gucci",
+            "sub_brand" : ""
+          },
+          "website_id" : "620349f1110b3f66c0238d53",
+          "spider" : "netaporter_gb_pv",
+          "price_positioning_text" : "equal"
+        }
+      },
+      {
+        "_index" : "products104",
+        "_type" : "_doc",
+        "_id" : "6201b8e5870f0ec73bd26040",
+        "_score" : 1.0,
+        "_source" : {
+          "similar_products" : {
+            "website_results" : {
+              "6188e422afaf2b4e847b340e" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "61fa840764a7e4f3ca859a56" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037d06110b3f66c0238d5c" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "62037c8c110b3f66c0238d5b" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "6189061cb1438e7d97084227" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 1250,
+                    "basket" : 1250,
+                    "regular" : 1250
+                  },
+                  "min_price" : {
+                    "offer" : 1250,
+                    "basket" : 1250,
+                    "regular" : 1250
+                  },
+                  "avg_price" : {
+                    "offer" : 1250,
+                    "basket" : 1250,
+                    "regular" : 1250
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 1
+                },
+                "knn_items" : [
+                  {
+                    "_index" : "products_6189061cb1438e7d97084227",
+                    "_type" : "_doc",
+                    "_source" : {
+                      "created_at" : "2022-02-11T18:40:27.297000",
+                      "description_text" : "",
+                      "media" : {
+                        "standard" : [
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_1_large.jpg",
+                            "order" : 0
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_2_large.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_3_large.jpg",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_4_large.jpg",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_5_large.jpg",
+                            "order" : 4
+                          }
+                        ],
+                        "thumbnail" : [
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_1_small.jpg",
+                            "order" : 0
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_2_small.jpg",
+                            "order" : 1
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_3_small.jpg",
+                            "order" : 2
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_4_small.jpg",
+                            "order" : 3
+                          },
+                          {
+                            "url" : "https://assetsprx.matchesfashion.com/img/product/1459773_5_small.jpg",
+                            "order" : 4
+                          }
+                        ]
+                      },
+                      "units" : [
+                        {
+                          "vid" : "1459773_36 IT",
+                          "size" : "36 IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_36 IT"
+                        },
+                        {
+                          "vid" : "1459773_38 IT",
+                          "size" : "38 IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_38 IT"
+                        },
+                        {
+                          "vid" : "1459773_40 IT",
+                          "size" : "40 IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_40 IT"
+                        },
+                        {
+                          "vid" : "1459773_42 IT",
+                          "size" : "42 IT",
+                          "stock" : {
+                            "available" : false
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_42 IT"
+                        },
+                        {
+                          "vid" : "1459773_44 IT",
+                          "size" : "44 IT",
+                          "stock" : {
+                            "available" : false
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_44 IT"
+                        },
+                        {
+                          "vid" : "1459773_46 IT",
+                          "size" : "46 IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_46 IT"
+                        },
+                        {
+                          "vid" : "1459773_48 IT",
+                          "size" : "48 IT",
+                          "stock" : {
+                            "available" : true
+                          },
+                          "unit_id" : "62064135a5e1b4d04d46ffa5_48 IT"
+                        }
+                      ],
+                      "classification" : {
+                        "l1" : "clothing",
+                        "l2" : "flared",
+                        "l3" : "",
+                        "l4" : ""
+                      },
+                      "lv_url" : "https://www.matchesfashion.com/womens/designers/gabriela-hearst",
+                      "url" : "https://www.matchesfashion.com/products/Gabriela-Hearst-Vita-wool-crepe-flared-trousers-1459773",
+                      "updated_at" : "2022-04-28T07:21:52.843000Z",
+                      "sizes" : [
+                        "36 IT",
+                        "38 IT",
+                        "40 IT",
+                        "42 IT",
+                        "44 IT",
+                        "46 IT",
+                        "48 IT"
+                      ],
+                      "meta" : {
+                        "reference" : "",
+                        "breadcrumbs" : {
+                          "1" : "womens",
+                          "2" : "designers",
+                          "3" : "gabriela-hearst"
+                        }
+                      },
+                      "price" : {
+                        "regular_price" : {
+                          "currency" : "GBP",
+                          "value" : 1250
+                        },
+                        "shipping" : 0,
+                        "tax_and_duties" : 0,
+                        "basket_price" : {
+                          "currency" : "GBP",
+                          "value" : 1250
+                        },
+                        "tax_inclusion" : "not included",
+                        "delivery_duty" : "paid",
+                        "offer_price" : {
+                          "currency" : "GBP",
+                          "value" : 1250
+                        }
+                      },
+                      "positioning" : {
+                        "rank" : 7,
+                        "page" : 1
+                      },
+                      "name" : "Vita wool-crepe flared trousers",
+                      "sku" : "1459773",
+                      "stock" : {
+                        "available" : true
+                      },
+                      "brand" : {
+                        "name" : "gabriela hearst",
+                        "sub_brand" : ""
+                      },
+                      "spider" : "matchesfashion_gb_lv",
+                      "website_id" : "6189061cb1438e7d97084227"
+                    },
+                    "_id" : "62064135a5e1b4d04d46ffa5",
+                    "_score" : 13.960227
+                  }
+                ]
+              },
+              "62037a37110b3f66c0238d5a" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              },
+              "618a5fcb2324f3ad279b24dc" : {
+                "meta" : {
+                  "max_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "min_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_price" : {
+                    "offer" : 0,
+                    "basket" : 0,
+                    "regular" : 0
+                  },
+                  "avg_discount" : 0,
+                  "total_results" : 0
+                },
+                "knn_items" : [ ]
+              }
+            },
+            "meta" : {
+              "max_price" : {
+                "offer" : 1250,
+                "basket" : 1250,
+                "regular" : 1250
+              },
+              "min_price" : {
+                "offer" : 1250,
+                "basket" : 1250,
+                "regular" : 1250
+              },
+              "avg_price" : {
+                "offer" : 1250,
+                "basket" : 1250,
+                "regular" : 1250
+              },
+              "avg_discount" : 0,
+              "total_results" : 1
+            }
+          },
+          "created_at" : "2022-02-08T16:32:23.684000",
+          "description_text" : "Gabriela Hearst's 'Vita' pants are modeled in a flattering, retro-inspired silhouette. Made from wool, they're designed to sit high on the waist and kick out just below the knee to voluminous flares. Wear yours with a tucked-in top.",
+          "units" : { },
+          "media" : {
+            "standard" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/fr/w2000_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/bk/w2000_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/cu/w2000_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/in/w2000_q60.jpg",
+                "order" : 4
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/ou/w2000_q60.jpg",
+                "order" : 5
+              }
+            ],
+            "thumbnail" : [
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/fr/w920_q60.jpg",
+                "order" : 1
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/bk/w920_q60.jpg",
+                "order" : 2
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/cu/w920_q60.jpg",
+                "order" : 3
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/in/w920_q60.jpg",
+                "order" : 4
+              },
+              {
+                "url" : "https://www.net-a-porter.com/variants/images/25185454456068242/ou/w920_q60.jpg",
+                "order" : 5
+              }
+            ]
+          },
+          "classification" : {
+            "l1" : "clothing",
+            "l2" : "wide-leg",
+            "l3" : "",
+            "l4" : ""
+          },
+          "url" : "https://www.net-a-porter.com/en-gb/shop/product/gabriela-hearst/clothing/wide-leg/vita-wool-flared-pants/25185454456068242",
+          "price_changes" : [ ],
+          "updated_at" : "2022-05-02T12:19:52.620380",
+          "sizes" : [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+          ],
+          "price_positioning" : 0,
+          "price" : {
+            "regular_price" : {
+              "currency" : "GBP",
+              "value" : 1250
+            },
+            "shipping" : 0,
+            "tax_and_duties" : 0,
+            "basket_price" : {
+              "currency" : "GBP",
+              "value" : 1250
+            },
+            "tax_inclusion" : "included",
+            "delivery_duty" : "paid",
+            "offer_price" : {
+              "currency" : "GBP",
+              "value" : 1250
+            }
+          },
+          "meta" : {
+            "reference" : "",
+            "base64_image_url" : "https://www.net-a-porter.com/variants/images/25185454456068242/fr/w2000_q60.jpg",
+            "breadcrumbs" : {
+              "1" : "gabriela-hearst",
+              "2" : "clothing",
+              "3" : "wide-leg",
+              "4" : "vita-wool-flared-pants"
+            }
+          },
+          "name" : "GABRIELA HEARST Vita wool flared pants",
+          "stock" : {
+            "available" : true
+          },
+          "sku" : "25185454456068242",
+          "brand" : {
+            "name" : "gabriela hearst",
+            "sub_brand" : ""
+          },
+          "website_id" : "620349f1110b3f66c0238d53",
+          "spider" : "netaporter_gb_pv",
+          "price_positioning_text" : "equal"
+        }
+      }
+    ]
+  }
+}

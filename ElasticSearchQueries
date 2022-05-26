@@ -1,0 +1,69 @@
+GET /products104/_search
+{
+   "query": {
+      "terms": {
+         "sku": [
+            "6630340696267782",
+            "6630340696267742",
+            "6630340696267739",
+            "6630340696267736",
+            "34344356237161861",
+        "39690134756841650",
+            "33258524072881231",
+            "33258524072881230",
+            "33258524072881229",
+            "33258524072881227",
+            "33258524072881225",
+            "8378037991493031",
+            "33258524072881222",
+            "33258524072881221"
+         ]
+      }
+   }
+}
+
+
+GET /products104/_search
+{
+  "query": {
+    "multi_match": {
+      "query": "gianvito rossi",
+      "fields": ["brand.name"]
+    }
+  }
+}
+
+GET /products104/_search
+{
+  "query": {
+    "multi_match": {
+    "query":"https://www.net-a-porter.com/en-gb/shop/product/gianvito-rossi/shoes/high-heel/gianvito-105-velvet-pumps/22250442026174057",
+      "fields": ["url"]
+    }
+  }
+}
+
+
+
+GET /products104/_search
+{
+  "query": {
+    "multi_match": {
+      "query": "GIANVITO",
+      "fields": ["name"]
+    }
+  }
+}
+
+GET /products104/_search
+{
+  "query": {
+    "multi_match": {
+      "query": "l1",
+      "fields": ["classification"]
+    }
+  }
+}
+
+GET /products104/_search
+
